@@ -7,8 +7,10 @@ name = "pypi"
 redis = "*"
 pyspark = "*"
 findspark = "*"
+sqlalchemy = "*"
 
 [dev-packages]
+sqlacodegen = "*"
 
 [requires]
 python_version = "3.10"
